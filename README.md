@@ -12,7 +12,7 @@
   -☕ Focado em  Data Sciente e Machine Learnning.<br>
   -📚 Estudante de Ciência da Computação<br>
   -📧 Email - antoniomarcos3577@gmail.com<br>
-  -✉️ <a href="https://drive.google.com/file/d/1eOWqjsxAqoSa6Upf3ZY_ZXW4uFgw6MCN/view">Meu Currículo</a></b></p>
+  -✉️ <a href="https://drive.google.com/file/d/1UGGNtkgl_BArT2Y0HO1WKpHgfD8fr2OV/view?usp=sharing">Meu Currículo</a></b></p>
 
 ### Minhas principais linguagens: 
 
