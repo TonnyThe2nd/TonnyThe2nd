@@ -21,7 +21,8 @@
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> JavaScript
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> MySql
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30"> C# </b>
-
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="30" height="30"> Angular </b>
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"> Typescript </b>
  ### Frameworks: 
   - <b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30"> Pandas
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30"> TensorFlow
