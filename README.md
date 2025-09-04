@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Antonio!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-Sou estudante da área de TI na UNIP, buscando ser um grande profissional de desenvolvimento back-end, com paixão por <b>Densevolvimento de software e sistemas,</b> e <b>Data Science</b>.
+Sou estudante da área de TI na UNIP, buscando ser um grande profissional de desenvolvimento back-end, com interesse em <b>Inteligência Artificial</b> e <b>Bancos de Dados</b>.
 </p>
 
 ---
@@ -52,60 +52,12 @@ Sou estudante da área de TI na UNIP, buscando ser um grande profissional de des
 ---
 
 ### 📊 Estatísticas de Estudos
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=tonnythe2nd&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnythe2nd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=tonnythe2nd&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=tonnythe2nd&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TonnyThe2nd&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyThe2nd&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=TonnyThe2nd&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&dates=15e5a6&ring=15e5a6&fire=15e5a6&stroke=00000000&currStreakNum=15e5a6&currStreakLabel=15e5a6&border=00000000&background=161B22"/>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/tonnythe2nd/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
