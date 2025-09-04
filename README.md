@@ -12,7 +12,7 @@ Sou estudante da área de TI na UNIP, buscando ser um grande profissional de des
 - Focado em **Data Science** e **Machine Learning**  
 - 📚 Estudante de **Ciência da Computação**  
 - 📧 Email: **antoniomarcos3577@gmail.com**  
-- ✉️ [Meu Currículo](https://drive.google.com/file/d/1UGGNtkgl_BArT2Y0HO1WKpHgfD8fr2OV/view?usp=sharing)
+- ✉️ [Meu Currículo](https://drive.google.com/file/d/143UBVKi0LS6PM3QShLYdkF9aZfZiqQox/view?usp=drive_link)
 
 ---
 
