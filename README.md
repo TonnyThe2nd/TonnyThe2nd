@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Antonio!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-Sou estudante da área de TI na UNIP, buscando ser um grande profissional de desenvolvimento back-end, com interesse em <b>Inteligência Artificial</b> e <b>Bancos de Dados</b>.
+Sou estudante da área de TI na UNIP, buscando ser um grande profissional de desenvolvimento back-end, com interesse em <b>Desenvolvimento de software</b> e <b>Data science</b>.
 </p>
 
 ---
