@@ -57,7 +57,17 @@ Sou estudante da área de TI na UNIP, buscando ser um grande profissional de des
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyThe2nd&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=TonnyThe2nd&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&dates=15e5a6&ring=15e5a6&fire=15e5a6&stroke=00000000&currStreakNum=15e5a6&currStreakLabel=15e5a6&border=00000000&background=161B22"/>
 </div>
-
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=TonnyThe2nd&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
